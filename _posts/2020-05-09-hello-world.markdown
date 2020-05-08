@@ -5,7 +5,7 @@ tags: [helloworld, programming, blog, chips]
 image: '/images/posts/1.jpg'
 ---
 
-Hello everyone!. This is my first blog post. 
+Hello everyone! This is my first blog post. 
 
 {% highlight js %}
 
