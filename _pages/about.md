@@ -1,7 +1,22 @@
 ---
 layout: page
 title: About
-image: 'https://avatars1.githubusercontent.com/u/13043860?s=400&u=ae509c4deb1082c54cfc42990834ffaad15a214c&v=4'
 ---
 
-Roslan Saidi, a software developer.
+I'm Roslan Saidi, a software engineer based in Malaysia. 
+
+My focus area for the past few years has been back-end development with Elixir and PHP and also front-end development with VueJS and using HTML & CSS to create beautiful user experiences that bring delight.
+
+You can reach me on the internet:
+* [Github](https://github.com/rootchips)
+* [Telegram](https://t.me/chips)
+* [Twitter](https://twitter.com/rootchps)
+* [Dev.to](https://dev.to/rootchips)
+
+---
+
+> “The best way to predict the future is to invent it” - Alan Kay
+
+---
+
+

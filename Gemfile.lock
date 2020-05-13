@@ -36,6 +36,7 @@ GEM
       nuggets
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-workbox-plugin (0.0.2)
     kramdown (2.2.1)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -69,6 +70,7 @@ DEPENDENCIES
   jekyll (~> 4.0.1)
   jekyll-paginate
   jekyll-tagging
+  jekyll-workbox-plugin
 
 BUNDLED WITH
    2.1.4

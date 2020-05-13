@@ -8,7 +8,7 @@
 # Site settings
 title:       Roslan Saidi
 email:       'mohamadroslansaidi@gmail.com'
-description: ''
+description: 'Digging deeper into software development'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://chips.my/' # The base hostname & protocol for your site
 twitter:     'https://www.twitter.com/rootchps'
@@ -24,6 +24,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll/tagging
+  - jekyll-workbox-plugin
 
 include:
   - _pages
