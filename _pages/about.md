@@ -13,6 +13,9 @@ You can reach me on the internet:
 * [Twitter](https://twitter.com/rootchps)
 * [Dev.to](https://dev.to/rootchips)
 
+My eargasm playlists:
+* [Spotify](https://open.spotify.com/user/rootchips)
+
 ---
 
 > “The best way to predict the future is to invent it” - Alan Kay
