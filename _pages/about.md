@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
-I'm Roslan Saidi, a software engineer based in Malaysia.
+I am Roslan Saidi, a software engineer hailing from Malaysia. 
 
-As a Software Engineer with expertise in Laravel (PHP) and Phoenix (Elixir) frameworks for API development, and NuxtJS for frontend, I specialize in building performant and scalable web applications. Throughout my career, I have worked on various projects, ranging from small startups to large enterprises, where I have applied my skills to develop custom solutions that meet the unique needs of each business.
+As a Software Engineer with expertise in Laravel (PHP) and Phoenix (Elixir) frameworks for API development and Nuxt for frontend development. My speciality lies in building performant and scalable applications, which I have successfully delivered for various projects throughout my career - ranging from small startups to large enterprises.
 
-In addition to my technical skills, I have extensive experience with AWS, including EC2, S3, and Lambda, and have successfully deployed and managed complex systems on the cloud. Currently, I'm expanding my skill set by learning Go, and I'm excited to apply this new knowledge to build more robust and efficient software.
+Apart from my technical skills, I possess extensive experience with AWS services including EC2, S3, Lambda, and have proficiently deployed and managed complex systems on the cloud. Currently, I am expanding my skillset by learning Go, and I am thrilled to apply this newfound knowledge to build more robust and efficient software.
 
-I am constantly learning new technologies and techniques to stay on top of the latest trends in software engineering, and I am passionate about building high-quality, maintainable code that delivers real value to end-users.
+I am always on the lookout for new technologies and techniques to keep up with the latest trends in software engineering. My passion lies in creating high-quality and maintainable code that provides real value to the end-users.
 
 You can reach me on the internet:
 * [Github](https://github.com/rootchips)
