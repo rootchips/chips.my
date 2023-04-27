@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm Roslan Saidi, a software engineer hailing from Malaysia. 
+I'm Roslan Saidi, a software engineer from Malaysia. 
 
 As a Software Engineer with expertise in Laravel (PHP) and Phoenix (Elixir) frameworks for API development and Nuxt (Vue + Javascript) for frontend development. My speciality lies in building performant and scalable applications which I have successfully delivered for various projects throughout my career - ranging from small startups to large enterprises.
 
